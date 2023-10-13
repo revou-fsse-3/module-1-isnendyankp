@@ -64,3 +64,14 @@ My favorite website, games & application:
 # Hello World
 
 This is a paragraph.
+
+<!-- Example HTML Code -->
+
+### HTML
+
+```html
+<main class="content">
+  <h1>Hello World</h1>
+  <p>This is a paragraph.</p>
+</main>
+```
