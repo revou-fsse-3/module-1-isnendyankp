@@ -26,3 +26,14 @@ How to reach me. this is my social media:
 
 1. [github](https://github.com/isnendyankp)
 2. [linkedin](https://www.linkedin.com/in/isnendyan-kresna-purnama-a20836244/)
+
+<!-- list of Technical skill -->
+## My Technical Skills
+
+My technical currently skills:
+
+1. Code Editor and VS Code
+2. Markdown
+3. Terminal and CLI
+4. Git
+5. Github
