@@ -55,3 +55,12 @@ My favorite website, games & application:
 <!-- code example base -->
 
 ## My Code Examples
+
+<!-- Example Markdown Code -->
+
+### Markdown
+
+```markdown
+# Hello World
+
+This is a paragraph.
