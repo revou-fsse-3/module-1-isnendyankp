@@ -56,6 +56,7 @@ My favorite website, games & application:
 
 ## My Code Examples
 
+
 <!-- Example Markdown Code -->
 
 ### Markdown
@@ -64,6 +65,7 @@ My favorite website, games & application:
 # Hello World
 
 This is a paragraph.
+
 
 <!-- Example HTML Code -->
 
@@ -74,4 +76,13 @@ This is a paragraph.
   <h1>Hello World</h1>
   <p>This is a paragraph.</p>
 </main>
+```
+
+<!-- Example JavaScript Code -->
+
+### JavaScript
+
+```js
+const text = 'Hello World';
+console.log(text);
 ```
