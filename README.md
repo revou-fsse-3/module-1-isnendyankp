@@ -37,3 +37,17 @@ My technical currently skills:
 3. Terminal and CLI
 4. Git
 5. Github
+
+<!-- list of Favorite website, games & application -->
+## My Favorite Website, Games & Application
+
+My favorite website, games & application:
+
+| Name    | URL                               | Reason                         |
+| ------- | --------------------------------- | ------------------------------ |
+| Google  | <https://google.com>              | To search anything             |
+| GitHub  | <https://github.com>              | To search and learn about code |
+| ChatGPT | <https://www.typingmind.com>      | To solving code                |
+| Movie   | <https://www.netflix.com>         | To watching Movie              |
+| Games   | <https://www.newworld.com/en-us/> | To having fun                  |
+| Music   | <https://open.spotify.com/?>      | To listening Music             |
