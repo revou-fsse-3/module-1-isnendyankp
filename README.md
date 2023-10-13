@@ -86,3 +86,12 @@ This is a paragraph.
 const text = 'Hello World';
 console.log(text);
 ```
+
+<!-- Example TypeScript Code -->
+
+### TypeScript
+
+```js
+const text: string = 'Hello World';
+console.log(text);
+```
