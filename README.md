@@ -6,3 +6,6 @@
 <!-- Subheading -->
 ## Title
 > This is an assignment for week 0 test RevoU. The task is creating a simple Bio Profile with Markdown.
+
+<!-- Greeting -->
+## Hi there 👋
