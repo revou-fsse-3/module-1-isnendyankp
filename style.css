@@ -36,3 +36,14 @@ nav ul li {
     margin: 0;
 }
 
+/* header */
+header {
+  text-align: center;
+  color: white;
+  background-color: #0d7c6d;
+  height: 320px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 48px;
+}
