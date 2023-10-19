@@ -1,97 +1,36 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bwEfZG3u)
 
 <!-- Heading -->
-# Isnendyan Kresna Purnama
+# Fansclub
 
-<!-- Subheading -->
-## Title
-> This is an assignment for week 0 test RevoU. The task is creating a simple Bio Profile with Markdown.
+<!-- h1 -->
+## Description
 
-<!-- Greeting -->
-## Hi there 👋
+> This is an assignment for week 1-2 test RevoU. The task is creating a simple website form.
 
-<!-- profile picture mini size -->
+<!-- h2 -->
+## Deliverables
 
-<img src="./assets/Nendy.jpg" width="200" height="200">
+> Basic HTML, CSS, and Javascript
 
-<!-- introduction bio paragraph -->
+<!-- h3 -->
+## Task List
 
-My name Isnendyan Kresna Purnama.I'm currently learning about Fullstack Software Engineering at RevoU indonesia.I decided to become a Fullstack Software Engineer because I was curious about how to make a web design. And every day we don't forget to use the web, that's when I was curious about how to create a web that we use every day.I hope I can be a Fullstack Software Engineer and can make a good web design.
+This task consists of:
 
-<!-- Social media link  -->
+1. implement basic css  to style website.
 
-## My Social Media
+2. Add simple javascript to make the website interactive.
 
-How to reach me. this is my social media:
+3. Create a functional form on your website that includes input types (text, textarea), a submit button, and at least one of the following: radio buttons, checkboxes, or a select dropdown.
 
-1. [github](https://github.com/isnendyankp)
-2. [linkedin](https://www.linkedin.com/in/isnendyan-kresna-purnama-a20836244/)
+4. Style your form to align with your website's design.
 
-<!-- list of Technical skill -->
-## My Technical Skills
+<!-- h4 -->
 
-My technical currently skills:
+## Main Example Design
 
-1. Code Editor and VS Code
-2. Markdown
-3. Terminal and CLI
-4. Git
-5. Github
-
-<!-- list of Favorite website, games & application -->
-## My Favorite Website, Games & Application
-
-My favorite website, games & application:
-
-| Name    | URL                               | Reason                         |
-| ------- | --------------------------------- | ------------------------------ |
-| Google  | <https://google.com>              | To search anything             |
-| GitHub  | <https://github.com>              | To search and learn about code |
-| ChatGPT | <https://www.typingmind.com>      | To solving code                |
-| Movie   | <https://www.netflix.com>         | To watching Movie              |
-| Games   | <https://www.newworld.com/en-us/> | To having fun                  |
-| Music   | <https://open.spotify.com/?>      | To listening Music             |
-
-<!-- code example base -->
-
-## My Code Examples
+Main guide example design: https://main--sweet-lamington-535805.netlify.app/
 
 
-<!-- Example Markdown Code -->
 
-### Markdown
-
-```markdown
-# Hello World
-
-This is a paragraph.
-```
-
-<!-- Example HTML Code -->
-
-### HTML
-
-```html
-<main class="content">
-  <h1>Hello World</h1>
-  <p>This is a paragraph.</p>
-</main>
-```
-
-<!-- Example JavaScript Code -->
-
-### JavaScript
-
-```js
-const text = 'Hello World';
-console.log(text);
-```
-
-<!-- Example TypeScript Code -->
-
-### TypeScript
-
-```js
-const text: string = 'Hello World';
-console.log(text);
-```
