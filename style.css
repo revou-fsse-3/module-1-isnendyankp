@@ -9,3 +9,14 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/* Nav Bar */
+nav {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 52px;
+    border-bottom: 2px solid #222222;
+}
