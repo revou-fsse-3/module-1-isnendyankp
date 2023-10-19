@@ -47,3 +47,9 @@ header {
   justify-content: center;
   padding-top: 48px;
 }
+
+/* Cat Photos */
+
+.cat-photos {
+  text-align: center;
+}
