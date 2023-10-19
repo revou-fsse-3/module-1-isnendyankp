@@ -107,3 +107,53 @@ header {
 .article-2 {
   margin-left: 16px;
 }
+
+
+/* Form */
+
+/* create form-title middle web */
+.form-title {
+  text-align: center;
+}
+
+/* field set form */
+fieldset {
+  margin: 16px 0;
+  border-radius: 4px;
+}
+
+/* input area */
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 4px 4px;
+  margin: 8px 0;
+  display: block;
+}
+
+/* form section */
+.form-section {
+  background-color: #0d7c6d;
+  color: white;
+  padding: 8px;
+  margin-top: 16px;
+}
+
+.form-section form {
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Button submit */
+button[type="submit"] {
+  color: white;
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 4px;
+  width: 100%;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
