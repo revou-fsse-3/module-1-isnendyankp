@@ -1,12 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/bwEfZG3u)
 
 <!-- Heading -->
-# Fansclub
+# Cat Fansclub
 
 <!-- h1 -->
 ## Description
 
-> This is an assignment for week 1-2 test RevoU. The task is creating a simple website form.
+> This is an assignment for week 1-2 at modul 1 test RevoU. The task is creating a simple website form.
 
 <!-- h2 -->
 ## Deliverables
