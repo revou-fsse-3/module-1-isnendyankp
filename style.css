@@ -65,3 +65,18 @@ header {
   height: 100%;
   object-fit: cover;
 }
+
+/* cat videos */
+.video-section {
+  background-color: #0d7c6d;
+  color: white;
+  padding: 8px;
+  margin-top: 16px;
+}
+.video-title {
+  text-align: center;
+}
+.video-container {
+  display: flex;
+  justify-content: center;
+}
