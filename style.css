@@ -10,6 +10,7 @@ body {
     padding: 0;
 }
 
+
 /* Nav Bar */
 nav {
     position: fixed;
@@ -36,6 +37,7 @@ nav ul li {
     margin: 0;
 }
 
+
 /* header */
 header {
   text-align: center;
@@ -48,13 +50,12 @@ header {
   padding-top: 48px;
 }
 
-/* Cat Photos */
 
+/* Cat Photos */
 .cat-photos {
   text-align: center;
 }
 
-/* Cat Photos */
 .cat-photos .grid-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -65,6 +66,7 @@ header {
   height: 100%;
   object-fit: cover;
 }
+
 
 /* cat videos */
 .video-section {
@@ -79,4 +81,29 @@ header {
 .video-container {
   display: flex;
   justify-content: center;
+}
+
+
+/* cat articles */
+.article-section {
+  background-color: #0d7c6d;
+  color: white;
+  padding: 8px;
+  margin-top: 16px;
+}
+.article-title {
+  text-align: center;
+}
+.article-container {
+  display: flex;
+  justify-content: center;
+}
+.article-question{
+  text-align: center;
+}
+.article-1 {
+  margin-right: 16px;
+}
+.article-2 {
+  margin-left: 16px;
 }
