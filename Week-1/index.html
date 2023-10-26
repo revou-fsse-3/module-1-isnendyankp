@@ -4,6 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Cat Fansclub">
         <!-- Title -->
         <title>Cat Fansclub</title>
         <!-- import css -->
@@ -19,7 +20,7 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="about.php">About Us</a></li>
-                <li><a href="https://www.linkedin.com/in/isnendyan-kresna-purnama-a20836244/">Contact Us</a></li>
+                <li><a href="https://www.linkedin.com/in/isnendyan-kresna-purnama-a20836244/" target="_blank">Contact Us</a></li>
             </ul>
         </nav>
 
@@ -38,38 +39,32 @@
                     <!-- cat 1 -->
                     <div class="cat-1">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutFe12GiEdUvTno_bjd-8KnM0m2TaQwst9zoV6vjJG5HDkg065mCUGW7SSUBkcYgRAhc&usqp=CAU" 
-                        alt="sleeping orange cat"
-                        />
+                        alt="sleeping orange cat">
                     </div>
                     <!-- cat 2 -->
                     <div class="cat-2">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVGkWZN2NdxZGS-UIleXujqtFpA_QxOJOxxM3h86za2uFbllCPoeJ9FCS9B582yvzXx4&usqp=CAU"
-                        alt="Lazy Gray cat"
-                        />
+                        alt="Lazy Gray cat">
                     </div>
                     <!-- cat 3 -->
                     <div class="cat-3">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjTYWETN5TqSZ_7KFWnbDS1F7ZZNqxWKjZVv08taVUT_PtnpUEyjzWPyoqgIgXtBFBz4&usqp=CAU" 
-                        alt="cat wearing a hat"
-                        />
+                        alt="cat wearing a hat">
                     </div>
                     <!-- cat 4 -->
-                    <div>
+                    <div class="cat-4">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqADsOWaXnarGOt3IvdsbfwXwtNVChseoIRfFxhrcG3a7BWIBm_vSv2gengUJLf2fuAU&usqp=CAU" 
-                        alt="cat wearing a glasses "
-                        />
+                        alt="cat wearing a glasses ">
                     </div>
                     <!-- cat 5 -->
-                    <div>
+                    <div class="cat-5">
                         <img src="https://images.pexels.com/photos/736532/pexels-photo-736532.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" 
-                        alt="chubby orange cat"
-                        />
+                        alt="chubby orange cat">
                     </div>
                     <!-- cat 6 -->
-                    <div>
+                    <div class="cat-6">
                         <img src="https://thumbs.dreamstime.com/b/fat-black-cat-yellow-eyes-very-155717712.jpg" 
-                        alt="chubby black cat"
-                        />
+                        alt="chubby black cat">
                     </div>
                 </div>
             </section>
@@ -80,15 +75,14 @@
                 <h2 class="video-title">Cat Video</h2>
                 <!-- cat video -->
                 <div class="video-container">
-                    <iframe
-                        width="560"
-                        height="315"
-                        src="https://www.youtube.com/embed/2XID_W4neJo"
-                        title="YouTube video player"
-                        frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen
-                    >
+                    <iframe 
+                    width="560" 
+                    height="315" 
+                    src="https://www.youtube.com/embed/2XID_W4neJo" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
                     </iframe>
                 </div>
             </section>
@@ -142,11 +136,11 @@
                             <!-- Question Living -->
                             <label for="living">Are you living in Indonesia?</label>
                             <!-- Answer yes -->
-                            <input type="radio" id="yes" name="living" value="yes">
-                            <label for="yes">Yes</label>
+                            <input type="radio" id="mainbtn-yes" name="living" value="yes">
+                            <label for="mainbtn-yes">Yes</label>
                             <!-- Answer no -->
-                            <input type="radio" id="no" name="living" value="no">
-                            <label for="no">No</label>
+                            <input type="radio" id="mainbtn-no" name="living" value="no">
+                            <label for="mainbtn-no">No</label>
                         </div>
                     </fieldset>
 
@@ -159,11 +153,11 @@
                             <!-- Question having a cat -->
                             <label for="cat">Do you have a cat?</label>
                             <!-- Answer yes -->
-                            <input type="radio" id="yes" name="cat" value="yes">
-                            <label for="yes">Yes</label>
+                            <input type="radio" id="otherbtn-yes" name="cat" value="yes">
+                            <label for="otherbtn-yes">Yes</label>
                             <!-- Answer no -->
-                            <input type="radio" id="no" name="cat" value="no">
-                            <label for="no">No</label>
+                            <input type="radio" id="otherbtn-no" name="cat" value="no">
+                            <label for="otherbtn-no">No</label>
                         </div>
                         <!-- Essay Questions  -->
                         <div>
@@ -194,8 +188,5 @@
 
         <!-- import js -->
         <script src="script.js"></script>
-        <!-- For new tab after click contact us -->
-        <base href="https://www.linkedin.com/in/isnendyan-kresna-purnama-a20836244/" target="_blank">
-
     </body>
 </html>
