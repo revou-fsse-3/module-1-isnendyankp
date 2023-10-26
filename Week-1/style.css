@@ -185,36 +185,21 @@ button[type="submit"] {
 /* Mobile S 320px */
 @media (max-width: 320px) {
   nav ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    width: 100%;
-    margin: 0;
-    padding: 0;
+    display: none;
   }
 }
 
 /* Mobile M 375px */
 @media (max-width: 375px) {
   nav ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    width: 100%;
-    margin: 0;
-    padding: 0;
+    display: none;
   }
 }
 
 /* Mobile L 425px */
 @media (max-width: 425px) {
   nav ul {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    width: 100%;
-    margin: 0;
-    padding: 0;
+    display: none;
   }
 }
 
