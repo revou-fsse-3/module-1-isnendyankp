@@ -167,8 +167,8 @@ button[type="submit"] {
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color: red; /* Set a background color */
-  color: white; /* Text color */
+  background-color: #FAEBD7; /* Set a background color */
+  color: #000000; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
   border-radius: 10px; /* Rounded corners */
@@ -177,4 +177,37 @@ button[type="submit"] {
 
 .myBtn:hover {
   background-color: #555; /* Add a dark-grey background on hover */
+}
+
+
+/* Media Query */
+
+/* Mobile */
+@media (max-width: 768px) {
+  /* header */
+  header {
+    height: 240px;
+  }
+  /* cat photos */
+  .cat-photos .grid-container {
+    grid-template-columns: 1fr;
+  }
+  /* cat videos */
+  .video-container {
+    justify-content: center;
+  }
+  /* cat articles */
+  .article-container {
+    flex-direction: column;
+  }
+  .article-1 {
+    margin-right: 0;
+  }
+  .article-2 {
+    margin-left: 0;
+  }
+  /* form section */
+  .form-section form {
+    max-width: 100%;
+  }
 }
