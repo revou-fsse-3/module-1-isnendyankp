@@ -17,8 +17,8 @@
 
 > Basic HTML, CSS, and Javascript
 
-<!-- Task -->
-## Task List
+<!-- Task week 1 -->
+## Task List week 1
 
 This task consists of:
 
@@ -29,6 +29,21 @@ This task consists of:
 3. Create a functional form on your website that includes input types (text, textarea), a submit button, and at least one of the following: radio buttons, checkboxes, or a select dropdown.
 
 4. Style your form to align with your website's design.
+
+<!-- Task Week 2 -->
+## Task List week 2
+
+This task consists of:
+
+1. Building a web page and try to use correct semantics for each element.
+
+2. Applying a Responsive Design with media query
+
+3. Creating a form set that includes input type text, textarea, submit button, and one of the radio buttons, checkboxes, or select.
+
+4. Centering elements using flex.
+
+5. Creating a Sticky Navigation Bar.
 
 <!-- list Guide -->
 
