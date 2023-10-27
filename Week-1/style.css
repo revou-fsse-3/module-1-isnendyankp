@@ -45,7 +45,10 @@ nav ul li a {
     color: #ffffff;
 }
 
-
+/* Nav Bar Hover Effect */
+nav ul li a:hover {
+    color: black;
+}
 
 
 /* header */
