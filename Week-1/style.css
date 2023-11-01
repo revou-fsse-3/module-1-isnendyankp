@@ -119,18 +119,15 @@ nav ul li a:hover {
 
 /* cat articles */
 .article-section {
-  background: rgb(9, 102, 121);
-  background: linear-gradient(
-    90deg,
-    rgba(9, 102, 121, 1) 48%,
-    rgba(0, 194, 255, 1) 100%
-  );
   color: white;
   padding: 8px;
   margin-top: 16px;
 }
 .article-title {
   text-align: center;
+  font-size: 24px;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .article-container {
   display: flex;
@@ -141,9 +138,13 @@ nav ul li a:hover {
 }
 .article-1 {
   margin-right: 16px;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .article-2 {
   margin-left: 16px;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* Form */
