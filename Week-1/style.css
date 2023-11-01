@@ -77,9 +77,11 @@ nav ul li a:hover {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
+/* Grid container */
+
 .cat-photos .grid-container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .cat-photos .grid-container img {
@@ -87,6 +89,16 @@ nav ul li a:hover {
   height: 100%;
   object-fit: cover;
 }
+
+.grid-container .cat-1 {
+    grid-column: 1;
+    grid-row: 1 / 2 span;
+  }
+
+  .grid-container .cat-2 {
+    grid-row: 1;
+    grid-column: 2 / 3 span;
+  }
 
 /* cat videos */
 .video-section {
