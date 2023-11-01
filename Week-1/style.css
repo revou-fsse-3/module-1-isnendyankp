@@ -44,12 +44,14 @@ nav ul li {
 }
 
 nav ul li a {
+  font-size: 18px;
   color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* Nav Bar Hover Effect */
 nav ul li a:hover {
-  color: black;
+  color: rgb(177, 34, 34);
 }
 
 /* Title */
