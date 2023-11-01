@@ -18,13 +18,8 @@ body {
 
 /* Nav Bar */
 nav {
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
   position: fixed;
-  background: rgb(9, 102, 121);
-  background: linear-gradient(
-    90deg,
-    rgba(9, 102, 121, 1) 48%,
-    rgba(0, 194, 255, 1) 100%
-  );
   color: white;
   width: 100%;
   display: flex;
