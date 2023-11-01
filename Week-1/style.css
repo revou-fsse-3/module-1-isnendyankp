@@ -56,14 +56,13 @@ nav ul li a:hover {
 
 /* Title */
 .title {
+  background-image: url(https://png.pngtree.com/background/20230424/original/pngtree-tabby-cats-and-tigers-have-very-similar-features-picture-image_2462967.jpg);
+  background-size: cover;
+  background-position: center;
   text-align: center;
-  color: white;
-  background: rgb(9, 102, 121);
-  background: linear-gradient(
-    90deg,
-    rgba(9, 102, 121, 1) 48%,
-    rgba(0, 194, 255, 1) 100%
-  );
+  font-size: 24px;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(168, 128, 128, 0.5);
   display: flex;
   flex-direction: column;
   justify-content: center;
