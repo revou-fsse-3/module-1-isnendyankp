@@ -152,32 +152,32 @@ nav ul li a:hover {
 /* create form-title middle web */
 .form-title {
   text-align: center;
+  font-size: 24px;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* field set form */
 fieldset {
   margin: 16px 0;
   border-radius: 4px;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 /* input area */
 input[type='text'],
 input[type='email'],
+input[type='tel'],
 textarea {
   width: 100%;
   padding: 4px 4px;
-  margin: 8px 0;
+  margin: 4px 0;
   display: block;
 }
 
 /* form section */
 .form-section {
-  background: rgb(9, 102, 121);
-  background: linear-gradient(
-    90deg,
-    rgba(9, 102, 121, 1) 48%,
-    rgba(0, 194, 255, 1) 100%
-  );
   color: white;
   padding: 8px;
   margin-top: 16px;
@@ -190,6 +190,7 @@ textarea {
 }
 /* Button submit */
 button[type='submit'] {
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
   color: white;
   background-color: transparent;
   border: 1px solid white;
