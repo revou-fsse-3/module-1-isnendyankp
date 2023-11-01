@@ -72,13 +72,9 @@ nav ul li a:hover {
 /* Cat Photos */
 .cat-photos {
   text-align: center;
-  background: rgb(9, 102, 121);
-  background: linear-gradient(
-    90deg,
-    rgba(9, 102, 121, 1) 48%,
-    rgba(0, 194, 255, 1) 100%
-  );
-  color: white;
+  font-size: 24px;
+  color: #333;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .cat-photos .grid-container {
