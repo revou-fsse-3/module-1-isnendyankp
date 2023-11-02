@@ -82,6 +82,8 @@ nav ul li a:hover {
   .cat-photos .grid-container {
     display: grid;
     grid-template-columns: 1fr;
+    padding: 8px;
+    grid-gap: 8px;
   }
 
   .cat-photos .grid-container img {
@@ -89,6 +91,32 @@ nav ul li a:hover {
     height: 100%;
     object-fit: cover;
   }
+
+  /* Keyframes for animation */
+@keyframes zoomIn {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Apply animation to cat photos */
+.cat-photos .grid-container img {
+  animation: zoomIn 1s;
+}
+
+/* Add transition to cat photos */
+.cat-photos .grid-container img {
+  transition: transform 0.5s;
+}
+
+/* Apply transformation on hover */
+.cat-photos .grid-container img:hover {
+  transform: scale(1.1);
+}
+
 
 
 
@@ -129,14 +157,14 @@ nav ul li a:hover {
   text-align: center;
 }
 .article-1 {
-  margin-right: 16px;
   color: #333;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  padding: 0px 30px 0px 30px;
 }
 .article-2 {
-  margin-left: 16px;
   color: #333;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  padding: 0px 30px 0px 30px;
 }
 
 /* Form */
