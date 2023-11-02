@@ -128,9 +128,6 @@ nav ul li a:hover {
   transform: scale(1.1);
 }
 
-
-
-
 /* cat videos */
 .video-section {
   color: white;
@@ -174,6 +171,7 @@ nav ul li a:hover {
 }
 ul.boxCat {
   list-style: circle;
+  padding-left: 20px;
 }
 .article-2 {
   color: #333;
@@ -295,10 +293,6 @@ button[type='submit'] {
 
 /* Mobile */
 @media (max-width: 768px) {
-  /* cat photos */
-  /* .cat-photos .grid-container {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-  } */
   
   /* cat videos */
   .video-container {
