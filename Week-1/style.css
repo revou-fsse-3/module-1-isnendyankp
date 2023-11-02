@@ -69,6 +69,16 @@ nav ul li a:hover {
   padding-top: 48px;
 }
 
+/* Apply transition to the title */
+.title h1, .title p {
+  transition: color 0.5s;
+}
+
+/* Apply color change on hover */
+.title:hover h1, .title:hover p {
+  color: red;
+}
+
 /* Cat Photos */
 .cat-photos {
   text-align: center;
