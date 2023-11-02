@@ -38,7 +38,8 @@ nav ul {
 }
 
 nav ul li {
-  padding: 20px;
+  list-style: none;
+  padding: 5px;
   margin: 0;
 }
 
@@ -53,9 +54,6 @@ nav ul li a:hover {
   color: rgb(177, 34, 34);
 }
 
-
-
-/* creating list-style to the list */
 
 /* Title */
 .title {
