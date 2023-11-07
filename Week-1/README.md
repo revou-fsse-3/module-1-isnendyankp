@@ -10,7 +10,7 @@
 
 <!-- Link Deploy -->
 
-> Link Deploy: https://cat-fansclub.netlify.app/
+> Link Deploy: https://basic-fansclub.netlify.app/
 
 <!-- Deliverables  -->
 ## Deliverables
